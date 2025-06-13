@@ -10,13 +10,13 @@ The dataset is split into:
 
 You can import the CIFAR-10 dataset either by downloading it manually or by using TensorFlow’s built-in dataset loader — as used in this repo.
 
-# First cell
+# cell 1️⃣
 
 <img width="376" alt="Screenshot 2025-06-13 at 15 06 34" src="https://github.com/user-attachments/assets/42ff7db5-0134-4e72-a612-74135aabbd41" />
 
 Used Keras, which is a high-level API built on top of TensorFlow. Imported pyplot from matplotlib to visualize the model’s performance (optional, but helpful).
 
-# Second cell
+# Cell 2️⃣ 
 
 <img width="664" alt="Screenshot 2025-06-13 at 15 10 26" src="https://github.com/user-attachments/assets/47f6c8fe-6658-4cd9-8ea7-469d6e25fcc8" />
 
@@ -55,7 +55,7 @@ We normalize the input values to be between 0 and 1. This helps the Neural Netwo
 
 *AUTOTUNE: Automatically chooses the best prefetch buffer size based on system resources (CPU, GPU, memory, etc.).
 
-# Third cell
+# cell 3️⃣
 <img width="634" alt="Screenshot 2025-06-13 at 15 47 21" src="https://github.com/user-attachments/assets/d2525275-6772-43da-837d-cbe2bfa5727e" />
 
 *This is a basic Convolutional Neural Network (CNN) setup
@@ -72,7 +72,7 @@ We normalize the input values to be between 0 and 1. This helps the Neural Netwo
 
 *metrics=['accuracy']: To monitor accuracy during training
 
-# Forth cell
+# cell 4️⃣
 <img width="297" alt="Screenshot 2025-06-13 at 15 51 07" src="https://github.com/user-attachments/assets/99b9d54a-4650-4392-aace-5a596ef151ac" />
 
 This is where the model starts learning!
