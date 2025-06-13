@@ -1,2 +1,2 @@
 # Deep-learning
-A repository for all my Deep learning projects
+A repository for all my deep learning projects with detailed explanations.
